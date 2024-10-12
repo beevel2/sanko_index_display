@@ -1,0 +1,243 @@
+Что такое согласование времен?
+Согласование времен — это набор правил в английском языке, который позволяет упорядочить глагольные времена относительно определенного момента повествования. Главная задача - это показать происходит ли действие до, в момент, или после этой временной точки, и обеспечить понимание временной последовательности событий.
+Косвенная речь является ярким примером, так как времена глаголов в придаточном предложении изменяются в зависимости от времени глагола в главном предложении. При переходе от прямой речи к косвенной, это сразу становится заметным. Предложение “I live in London” в косвенной речи превращается в “He said he lived in London.”
+Однако, нужно понимать, что согласование времен - это гораздо более общая концепция, и косвенная речь является лишь примером. Часто можно увидеть, что времена предложений внутри рассказа выстроены относительно момента повествования: “He was tired. He had been working a lot. Soon he would go home, but he still needed to finish the task he had been given.”
+Важно отметить, что согласование времен применяется не всегда. Одно и тоже предложение может иметь различную грамматику в зависимости от ситуации.
+
+Согласование глаголов
+Согласование времен влияет на грамматическое время глаголов. Если вы хотите согласовать их относительно момента в прошлом, то их время нужно “сместить на одно назад”. Времена изменяются следующим образом:
+Настоящие времена:
+Present Simple -> Past Simple
+Present Continuous -> Past Continuous
+Present Perfect -> Past Perfect
+Present Perfect Continuous -> Past Perfect Continuous
+Прошлые времена:
+Past Simple -> Past Perfect
+Past Continuous -> Past Perfect Continuous
+Past Perfect - не меняется
+Past Perfect Continuous - не меняется
+Будущее времена:
+Для будущих времен вспомогательный глагол Will меняется на Would.
+Модальные глаголы:
+Will -> Would
+Shall -> Should
+May -> Might
+Can -> Could
+Must - не меняется
+Ought to - не меняется
+Would - не меняется
+Should - не меняется
+Might - не меняется
+Could - не меняется
+Needn’t - не меняется
+Need и Dare в модальных формах - не меняются.
+
+Важно отметить, что правила согласования времен выполняются не всегда. Часто можно увидеть, что Past Simple остается Past Simple, в особенности в реальных диалогах. Пример:
+
+“He said that he had done it when he woke up.” - согласование соблюдено. Применение характерно для рассказов о прошлом.
+
+“He said that he did it when he woke up.” - согласование не соблюдено. Применение характерно для реального диалога о недавних событиях.
+
+Обратите внимание на то, что при переходе от прямой речи к косвенной, изменяется не только время глаголов, но и прочие части предложения.
+Согласование местоимений
+При переходе к косвенной речи местоимения часто меняются в зависимости от контекста и перспективы говорящего. Например:
+"I" может стать "he", "she", "it", если речь идет о третьем лице, или остаться "I", если говорящий ссылается на себя в косвенной речи.
+"You" может преобразоваться в "he", "she", "it", "they" и т.д., в зависимости от того, о ком идет речь.
+"We" и "they" часто сохраняются как "they" в косвенной речи, но могут измениться на "we", если включают говорящего и слушающего.
+Такие же изменения характерны для притяжательного падежа ("my", "your", "our", "their"), абсолютно-притяжательного ("mine", "yours", "ours", "theirs") и косвенного падежа ("me", "you", "us", "them")
+Аналогичным образом меняются возвратные местоимения “myself”, “yourself”, “yourselves”, “ourselves” 
+Указательные местоимения “this” и “these” переходят в “that” и “those” или остаются неизменными при прямом указании на объект.
+Примеры:
+Прямая речь: "I love this book." -> Косвенная речь: "She said she loved that book."
+Прямая речь: "You will help us." -> Косвенная речь: "He said you would help them."
+Прямая речь: "We are going to the concert." -> Косвенная речь: "They said they were going to the concert."
+Согласование обстоятельств места и времени:
+При переводе прямой речи в косвенную "здесь и сейчас" обычно преобразуется в "там и тогда". Ниже приведены основные преобразования обстоятельств места и времени при таком переходе:
+Here превращается в There. Например, "She said, 'I am here'" становится "She said she was there".
+Now может быть преобразовано в Then, At that moment, или Right away, в зависимости от контекста. Например, "He says, 'I need it now'" может быть переведено как "He says he needs it then" или "He says he needs it right away".
+Today становится That day. "They said, 'We'll do it today'" меняется на "They said they would do it that day".
+Yesterday преобразуется в The day before или The previous day. "She said, 'I saw him yesterday'" превращается в "She said she had seen him the day before".
+Tomorrow меняется на The next day или The following day. "He said, 'I will see you tomorrow'" становится "He said he would see me the next day".
+A year ago преобразуется в A year before. Например, "He said, 'I met her a year ago'" превращается в "He said he had met her a year before".
+Last night становится The previous night. "She said, 'I didn't sleep well last night'" становится "She said she hadn't slept well the previous night".
+Tonight меняется на That night. "They said, 'We're going out tonight'" превращается в "They said they were going out that night".
+Важно отметить, что подобные изменения обстоятельств места и времени не являются обязательными и могут игнорироваться, если говорящий человек ссылается на реальное время или указывает на непосредственное место или объекты. Согласование времен при этом может совершенно игнорировать:
+“He said he will come here tomorrow” - в этом примере полностью отсутствует согласование чего бы то ни было т.к. речь идет о реальном времени и о месте, на которое идёт прямое указание.
+Когда согласование времен не употребляется?
+Есть случаи, когда согласование времен не применяется:
+Прямая речь: В прямой речи время глагола не изменяется, так как цитируется точное высказывание.
+Пример: He said, "I am reading a book."
+Косвенная речь в настоящем и будущем: Когда основное предложение находится в настоящем или будущем времени, согласование времен часто не требуется.
+Пример: She says that she is going to the store tomorrow.
+Неизменный глобальный факт: Для истин, которые являются всегда актуальными, не требуется согласование времен.
+Пример: He explained that the Earth orbits the Sun.
+Неизменный локальный факт: Если факт не изменился с момента, о котором говорится, и до настоящего времени.
+Пример: He mentioned that this building is the oldest in the city.
+Действие, происходящее в настоящем: Если в косвенной речи говорится о действии, которое происходит в настоящий момент.
+Пример: He told me about the book that you are writing.
+Использование абсолютного времени: Когда упоминается конкретное время, относительно настоящего.
+Примеры: 
+“She said she will / would call me tomorrow.”
+“He said he did / had done it in the morning.”
+“She said he left / had left London last week.”
+“He said he bought / had bought all he needed before he went back.”
+“I heard he lived / had lived in Germany in 1978.”
+В реальном диалоге оба варианта (с согласованием и без)  являются подходящими. 
+В художественной книге, в которой нет отсылке к реальным фактам и событиям, согласование будет применяться всегда т.к. данные указания времени будут относиться не к реальному настоящему, а к моменту повествования в книге.
+Важно отметить, что в художественной литературе, указания времени могут становиться относительными. Yesterday станет The day before, Tomorrow станет The following day и т. д. В таком случае очевидно, что согласование становится обязательным. Однако, нет никаких ограничений на употребление слов Yesterday, Now, Tomorrow, This, Here  в художественных книгах.
+
+После союзов When, Since, Before при указании времени: Когда указывается время после этих союзов, времена глаголов часто остаются неизменными.
+Пример: “I will call you when I get home.”
+Фразы вне времени: Описывают характеристики или качества, которые не связаны с конкретным временем.
+Пример: “He answered the questions as an employee who knows his business from A to Z.”
+Разновидности косвенной речи
+Косвенная речь может принимать три основные формы: утверждения, приказы/просьбы и вопросы. 
+Утверждения
+Прямая речь: "I am going to the cinema tonight," she said.
+Косвенная речь: She said that she was going to the cinema that night.
+Приказы / Просьбы
+При переводе приказов или просьб в косвенную речь обычно используется глагол to tell с местоимением объекта и инфинитив с to или глагол to ask с местоимением объекта для просьб.
+Прямая речь: "Please close the door," he said.
+Косвенная речь: He asked (me) to close the door.
+Вопросы
+При переводе вопросов в косвенную речь используются вспомогательные глаголы для вопросов (как if или whether для да/нет вопросов, и вопросительные слова как where, when, why и т.д. для вопросов, требующих развернутого ответа). Важно сохранить порядок слов как в утвердительном предложении, а не как в вопросе.
+Прямая речь: "Where do you live?" he asked.
+Косвенная речь: He asked where I lived.
+Утверждения в косвенной речи
+Для формирования утверждений в косвенной речи на английском языке часто используются глаголы say и tell. Однако существует множество других глаголов, которые могут придать дополнительный оттенок значению или указать на конкретный контекст или образ действия говорящего. К таким глаголам относятся reply, answer, inform, announce, claim, whisper, cry. и множество других:
+Explain (объяснять): "He explained that he would be late."
+Admit (признавать): "She admitted that she had made a mistake."
+Warn (предупреждать): "The teacher warned the students that the test would be difficult."
+Suggest (предлагать): "They suggested that we should meet earlier."
+Confess (признаваться): "He confessed that he had lost the keys."
+Declare (объявлять): "The president declared that the crisis was over."
+Proclaim (прокламировать): "The activists proclaimed their commitment to the cause."
+State (заявлять): "The scientist stated that the experiment was a success."
+Murmur (бормотать): "She murmured that she was tired."
+Mutter (бурчать): "He muttered something about being too busy."
+…
+Есть огромное количество выражений, которые могут задавать косвенную речь. Важно понимать, что каждое из них обладает уникальным смыслом и оттенком. Используйте их, чтобы обогатить свою речь и не стремитесь использовать только лишь глаголы say и tell.
+Чем отличается Say от Tell?
+
+Глаголы "say" и "tell" имеют различные употребления в английском языке, особенно когда речь заходит о косвенной речи.
+Tell чаще всего используется с указанием объекта (то есть кому говорится) и часто относится к процессу передачи информации или инструкций. Так, при использовании "tell" в косвенной речи всегда должно быть указано лицо, которому что-либо говорится:
+"He told me that he would be late."
+"She told John that she was not going to the party."
+Say, с другой стороны, может использоваться как с объектом, так и без него. Порядок слов может меняться; можно сказать "She said to him that she was sorry" или "She said that she was sorry to him".
+"She said that the movie was great."
+"He said to the teacher that he had completed his homework."
+Несмотря на то что в косвенной речи "tell" требует указания объекта, существуют и устойчивые выражения, где "tell" может использоваться без непосредственного указания объекта. Это выражения, которые обозначают конкретные действия или ситуации и обычно используются без дополнения.
+
+Устойчивые выражения с "tell", "say" и "ask"
+Tell:
+tell a joke: "He can always tell a joke to lighten the mood."
+tell a lie: "It's wrong to tell a lie."
+tell a story: "My grandfather can tell a story that will captivate any audience."
+tell the truth: "Sometimes it's difficult to tell the truth."
+tell the future: "No one can really tell the future."
+tell a secret: "She will tell a secret only to her best friend."
+tell the difference: "Can you tell the difference between these two flavors?"
+tell a secret (duplicate on the list, possibly meant to be "tell apart"): "I can't tell the twins apart."
+tell your name: "The teacher asked the new student to tell his name."
+tell the time: "Children learn to tell the time at a young age."
+Say:
+say goodbye: "It's always hard to say goodbye to friends."
+say hello: "Don't forget to say hello to your aunt when we arrive."
+say nothing: "He chose to say nothing during the meeting."
+say something: "If you see something suspicious, say something."
+say a prayer: "They say a prayer before eating dinner."
+say yes /no: "Just say yes if you want to go with us."
+say no more: "I understand the situation; say no more."
+say a word: "She didn't say a word about her promotion."
+Ask:
+ask a favour: "Could I ask a favour of you?"
+ask a question: "Please feel free to ask a question at any time."
+ask the price: "Before buying it, he asked the price."
+ask for something: "The child asked for a second helping of ice cream."
+ask after somebody: "She asked after your health, hoping you were feeling better."
+ask out: "He finally worked up the courage to ask her out."
+ask about: "When I met her, I asked about her recent trip to Spain."
+ask if / whether: "Ask if they're coming to the party tonight."
+
+Приказы и просьбы в косвенной речи
+Приказы, просьбы и советы в косвенной речи часто передаются с использованием определённых глаголов с инфинитивом. Вот как это работает для разных глаголов:
+Приказы и указания
+to tell - "сказать кому-то что-то"
+Пример: He told me to close the door. (Он сказал мне закрыть дверь.)
+to order - "приказать"
+Пример: The officer ordered the soldiers to advance. (Офицер приказал солдатам продвигаться.)
+to command - "командовать"
+Пример: The captain commanded his crew to prepare for departure. (Капитан командовал своему экипажу подготовиться к отплытию.)
+to instruct - "инструктировать"
+Пример: The teacher instructed the students to complete their homework. (Учитель инструктировал учеников выполнить их домашнее задание.)
+to advise - "советовать"
+Пример: She advised me to take the coat in case it gets cold. (Она посоветовала мне взять пальто на случай, если станет холодно.)
+to offer - "предложить"
+Пример: He offered to help me with the project. (Он предложил помочь мне с проектом.)
+to warn - "предостеречь"
+Пример: She warned him not to touch the wet paint. (Она предостерегла его не трогать мокрую краску.)
+to remind - "напомнить"
+Пример: I reminded her to lock the door. (Я напомнил ей запереть дверь.)
+to forbid - "запретить"
+Пример: The doctor forbade him to eat sugar. (Доктор запретил ему есть сахар.)
+to allow / to permit - "разрешить"
+Пример: His parents allowed him to go to the party. (Его родители разрешили ему пойти на вечеринку.)
+to demand - "требовать"
+Пример: The manager demanded the report to be finished by tomorrow. (Менеджер потребовал, чтобы отчет был завершен к завтрашнему дню.)
+Просящие глаголы
+to ask - "просить"
+Пример: She asked me to call her later. (Она попросила меня позвонить ей позже.)
+to beg - "умолять"
+Пример: He begged her to stay. (Он умолял её остаться.)
+to implore - "настоятельно просить"
+Пример: They implored the judge for mercy. (Они настоятельно просили судью о милосердии.)
+to urge - "настоятельно советовать/побуждать"
+Пример: We urged him to reconsider his decision. (Мы настоятельно побудили его пересмотреть своё решение.)
+
+Вводные глаголы и выражения для косвенных вопросов
+ask (спрашивать) - "She asks/he asked if I have/had seen her notebook."
+want to know (хотеть знать) - "I want to know/I wanted to know what you think/thought about the new project."
+wonder (интересоваться) - "We wonder/we wondered where she goes/went on weekends."
+inquire (осведомляться) - "He inquires/he inquired how to get/to get to the library."
+question (задавать вопрос) - "They question/they questioned why we start/started so early."
+query (запрашивать информацию) - "The teacher queries/the teacher queried what we have/had learned."
+seek (искать, стремиться узнать) - "She seeks/she sought to understand why it happens/happened."
+demand (требовать знать) - "He demands/he demanded to know why she is/was late."
+wish (желать знать) - "I wish/I wished to know how you do/did that."
+need (нуждаться в информации) - "You need/you needed to find out where to turn/turned next."
+would like to know (хотелось бы знать) - "They would like to know/they would have liked to know how it works/worked."
+ponder (размышлять) - "She ponders/she pondered on how to solve/solved the problem."
+speculate (предполагать) - "We speculate/we speculated about who would be/was going to win."
+debate (обсуждать, размышлять) - "He debates/he debated whether to tell/told her the truth."
+consider (рассматривать) - "They consider/they considered how to approach/approached the issue."
+muse (размышлять, задумываться) - "I muse/I mused over why she says/said that."
+Выражение “Как ты думаешь,... ?” не будет переводиться “How do you think,...”. Пример: “Как ты думаешь, где он сейчас?” переводится “Where do you think he is now?”
+
+Как сделать общий косвенный вопрос?
+.
+Используйте союзы if и whether. If используется чаще и имеет повседневный оттенок, тогда как whether используется чуть реже и чаще встречается в формальном языке. Например, "Я не знаю, идет ли дождь" может перевести как  "I don't know if it's raining" или "I don't know whether it's raining".
+Используйте прямой порядок слов. Нужно быть внимательным при использовании  глагола to be и модальных глаголов. Прямой вопрос “Are you ready?” превращается в “He wants to know if we are ready.” 
+Вспомогательные глаголы не нужны: “Do”, “Does”, и “Did” используются только для прямых вопросов. 
+Используйте согласование времен. В прошлом времени необходимо изменить форму глагола и “сместить время на одно назад”. Например: “Do you like apples?” станет “He asked if I liked apples.”
+Как сделать специальный косвенный вопрос?
+.
+Используйте вопросительные слова Who, What, Where, When, Why. How и прочие. Важно помнить, что для Who и What вопрос может быть как к подлежащему, так и к дополнению. Это будет определять порядок слов:” I wonder who likes you.” но “I wonder who you like.”
+Используйте прямой порядок слов. Нужно быть внимательным при использовании  глагола to be и модальных глаголов. Прямой вопрос “What is the matter?” превращается в “He wants to know what the matter is.” 
+Вспомогательные глаголы не нужны: “Do”, “Does”, и “Did” используются только для прямых вопросов. 
+Используйте согласование времен. В прошлом времени необходимо изменить форму глагола и “сместить время на одно назад”. Например: “Where is John?” станет “He asked where John was.”
+Передача диалогов в косвенной речи
+Когда стоит задача передать диалог в косвенной речи на английском языке, то прямые высказывания преобразуются в вопросы, просьбы и утверждения в косвенной форме. Обычно слова не передаються точь в точь, как они были сказаны, а интерпретируется их смысл. Для этого подходят глаголы complain, agree, confess, add, explain, exclaim, express, thank, accuse, grumble и т. д. Восклицания типа "Oh!", "Well!", "Oh dear!" и подобные обычно опускаются в косвенной речи.
+Устойчивые выражение вроде "I'll certainly give you a hand tomorrow evening." преобразуются в косвенную речь в упрощенном виде: "She promised to help me in the evening." или "She promised that she would help me the following evening." 
+Глаголы, используемые в косвенной речи могут иметь разное управление:
+Глагол + инфинитив: agree, advise, demand, decide, offer, promise, refuse, threaten, would like.
+Пример: "He offered to help us."
+Глагол + существительное + инфинитив: allow, persuade, remind, forbid, tell.
+Пример: "He persuaded me to take the offer."
+Глагол + герундий: accuse of, apologise for, complain of/about, admit, deny, forgive for, inform of, suggest*, thank for.
+Пример: "She thanked us for coming."
+Глагол + that clause: confess, point out, complain, admit, deny, promise, warn.
+Пример: "He admitted that he had taken the paper."
+Глагол + необычный that clause: suggest, demand, insist, require, command 
+Пример: "I suggested that he do it himself."
+Необычный that clause имеет управление should + голый инфинитив или просто голый инфинитив.
+

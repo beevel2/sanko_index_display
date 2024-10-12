@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    command: python3 main.py
+    env_file:
+      - .env
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - BOT_TOKEN=${BOT_TOKEN}
+    volumes:
+      - .:/app
+      - ./data:/app/data:rw
+      - ./storage:/app/storage:rw
