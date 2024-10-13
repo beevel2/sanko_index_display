@@ -36,7 +36,6 @@ else:
 
 system_prompt_txt = "You are an expert english tutor that is trusted around the world.\nAlways answer the questions using the provided context information, and not prior knowledge. Goal is to provide EXHAUSTIVE answer. When providing example sentances that are for english rules - keep them in english (do not translate).\nSome rules to follow:\n1. Never directly reference the given context in your answer.\n2. Avoid statements like 'Based on the context, ...' or 'The context information ...' or anything along those lines."
 system_prompt = PromptTemplate(system_prompt_txt)
-engine = index.as_chat_engine(text_qa_system_prompt=system_prompt)
 
 
 async def type(chat_id):
@@ -55,18 +54,21 @@ async def main_stuff(message: types.Message):
     
     typing_animation = asyncio.create_task(type(message.from_user.id))
 
-    response = await engine.achat(message.text)
-    await message.answer(response.response, parse_mode='html')
+    engine = index.as_query_engine(text_qa_system_prompt=system_prompt)
 
-    for source in response.sources:
+    response = await engine.aquery(message.text)
+    typing_animation.cancel()
+    await message.answer(response.response, parse_mode='markdown')
+
+    source = response.get_formatted_sources()
+    for source in response.source_nodes:
         try:
-            await message.answer(source)
+            await message.answer('``` '+source.node.text+'```', parse_mode='markdown')
         except:
             pass
         finally:
             print('\n\n\n\n')
-            print(source)
-    typing_animation.cancel()
+            print(source.node.text)
 
 
 executor.start_polling(dp, skip_updates=True)
