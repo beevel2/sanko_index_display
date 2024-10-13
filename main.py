@@ -56,8 +56,16 @@ async def main_stuff(message: types.Message):
     typing_animation = asyncio.create_task(type(message.from_user.id))
 
     response = await engine.achat(message.text)
-    await message.answer(response.response)
+    await message.answer(response.response, parse_mode='html')
 
+    for source in response.sources:
+        try:
+            await message.answer(source)
+        except:
+            pass
+        finally:
+            print('\n\n\n\n')
+            print(source)
     typing_animation.cancel()
 
 
